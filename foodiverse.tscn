@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://d0hlr2650ydum"]
+
+[ext_resource type="Script" uid="uid://q51ofjohlofe" path="res://foodiverse.gd" id="1_w6w1a"]
+
+[node name="foodiverse" type="Control" unique_id=1313993461]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_w6w1a")
